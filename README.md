@@ -1,6 +1,6 @@
 ## Hallo! My name is James 👋
 
-- 🎓 I'm currently completing a Higher Certificate in Software Development at [redAcademy](https://redacademy.co.za/)
+- 🎓 I'm completed a Higher Certificate in Software Development at [redAcademy](https://redacademy.co.za/)
 - 💻 I'm currently learning back end development at [boot.dev](https://www.boot.dev/u/lizardjames)
 - 📊 I like writing SQL! I also enjoy Python and C#
 - 🔍 I am endlessly curious about how data is shaped and delivered
